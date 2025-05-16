@@ -1,0 +1,17 @@
+﻿control,stimulus,ui,SR_0_count,SR_1_count,total,SR_0_ratio,SR_1_ratio
+D,G,button,0,7,7,0.0,1.0
+D,G,slider,0,13,13,0.0,1.0
+D,M,button,1,8,9,0.1111111111111111,0.8888888888888888
+D,M,slider,1,10,11,0.09090909090909091,0.9090909090909091
+D,N,button,0,14,14,0.0,1.0
+D,N,slider,0,6,6,0.0,1.0
+D,P,button,1,9,10,0.1,0.9
+D,P,slider,0,10,10,0.0,1.0
+I,G,button,0,7,7,0.0,1.0
+I,G,slider,0,13,13,0.0,1.0
+I,M,button,0,9,9,0.0,1.0
+I,M,slider,0,11,11,0.0,1.0
+I,N,button,0,14,14,0.0,1.0
+I,N,slider,0,6,6,0.0,1.0
+I,P,button,1,9,10,0.1,0.9
+I,P,slider,0,10,10,0.0,1.0
